@@ -14,7 +14,7 @@ Better BAT was created to improve the bulk administration experience when using 
 
 # Features
 
-### Explore Electron
+### Live Feedback
 
 ![Screenshot: Electron App running](https://user-images.githubusercontent.com/1426799/52155856-c0bb4300-2639-11e9-9962-a6354d08dc5a.jpg)
 
@@ -24,7 +24,7 @@ available in Electron, so if you want to quickly see what a
 [BrowserView][BrowserView] is or how the [desktopCapturer][desktopCapturer]
 works, Fiddle has got you covered.
 
-### Code with Types
+### Handsontable
 
 ![Screenshot: Fiddle's Types](https://user-images.githubusercontent.com/1426799/43874324-10e46eae-9b40-11e8-962b-8c793d73c259.png)
 
