@@ -138,6 +138,19 @@ Since the release of Unified Communication Manager 12.5, administrators have bee
 <img src="https://github.com/sieteunoseis/betterbat-public-releases/blob/master/images/activation-id.png" alt="Better BAT screenshot">
 </p>
 
+### Jabber Conversion
+
+Better BAT can convert existing phones into a CSF device
+
+<p align="center">
+<img src="https://github.com/sieteunoseis/betterbat-public-releases/blob/master/images/jabberconvert.png" alt="Better BAT screenshot">
+</p>
+
+Jabber Convert
+----------------
+SEP112233445566
+
+
 ### Airtable Support
 
 <p align="center">
