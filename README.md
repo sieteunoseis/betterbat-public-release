@@ -36,7 +36,7 @@ SMITHJ-FAC5            |1004              |15                |SMITHJ-CELL       
 
 ![Screenshot: Better BAT running](https://github.com/sieteunoseis/betterbat-public-releases/blob/master/images/live-feedback.png)
 
-Better BAT shows misconfigurations with your import file before you make any changes. This saves engineers from issues stemming from bad data collections, typo's or features not supported all phone models.
+Better BAT shows misconfigurations with your import file before you make any changes. This saves engineers from issues stemming from bad data collections, typo's or features not supported by all phone models.
 
 * #### Legend
   - ![#ff4c42](https://via.placeholder.com/15/ff4c42/000000?text=+) `RED - Missing or misconfigured field.`
