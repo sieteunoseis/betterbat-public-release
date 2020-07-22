@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/378023/49785546-4b7f7000-fd64-11e8-8033-a52c73a07fbf.png" width="60px" align="center" alt="Electron Fiddle icon"> Better BAT
+# <img src="https://github.com/sieteunoseis/betterbat-public-releases/blob/master/logo.png" width="60px" align="center" alt="Better BAT icon"> Better BAT
 
 [![Build Status](https://travis-ci.org/electron/fiddle.svg?branch=master)](https://travis-ci.org/electron/fiddle) [![Coverage Status](https://coveralls.io/repos/github/electron/fiddle/badge.svg?branch=master)](https://coveralls.io/github/electron/fiddle?branch=master)
 
