@@ -1,4 +1,4 @@
-# <img src="https://github.com/sieteunoseis/betterbat-public-releases/blob/master/logo.png" width="60px" align="center" alt="Better BAT icon"> Better BAT
+# <img src="https://github.com/sieteunoseis/betterbat-public-releases/blob/master/images/logo.png" width="60px" align="center" alt="Better BAT icon"> Better BAT
 
 Better BAT was created to improve the bulk administration experience when using Cisco's Unified Communications Manager.
 
@@ -9,7 +9,7 @@ Better BAT was created to improve the bulk administration experience when using 
 </h3>
 
 <p align="center">
-<img src="https://github.com/sieteunoseis/betterbat-public-releases/blob/master/better-bat-social-preview.png" width="640px" alt="Better BAT screenshot">
+<img src="https://github.com/sieteunoseis/betterbat-public-releases/blob/master/images/better-bat-social-preview.png" width="640px" alt="Better BAT screenshot">
 </p>
 
 # Features
