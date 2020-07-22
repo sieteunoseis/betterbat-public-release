@@ -71,6 +71,16 @@ Better BAT count's errors detected in import file and allows users to cycle to i
 
 Better BAT has a dynamic dropdown with typeable search to quickly navigate to a particular column. This reduces time spent trying to find and update a particular field.
 
+### Airtable Support
+
+![Screenshot: Better BAT Airtable Support](https://github.com/sieteunoseis/betterbat-public-releases/blob/master/images/airtable-1.png)
+
+Better BAT has support for Airtable. Stop using spreadsheet to collect data for phone imports. Instead use a cloud based collaborative tool from Airtable.
+
+![Screenshot: Better BAT Airtable Support](https://github.com/sieteunoseis/betterbat-public-releases/blob/master/images/airtable-2.png)
+
+Airtable offers form views for each spreadsheet. Engineers can send out links to allow end-users to update or add missing information.
+
 ### Built with Electron, NodeJS and Handsontable
 
 Better BAT includes Handsontable's excellent spreadsheet editor. This includes support for Formulas, Dropdowns, Sorting and much more. Check out more information on their [website](https://handsontable.com/).
