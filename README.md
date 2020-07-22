@@ -103,7 +103,7 @@ Better BAT will help customers with naming standards. Via the Settings > Options
 * Alerting Name
 * Display
 
-If a regex is set and the value of the import file does not match field will be shown in orange. Example: setting the Line Text Label Regex to `^[A-Z].*-(?:\d{4})` would vaildate that the field needed to be a word followed by a hyphen and 4 digits. Josh-1234 would be valid, however Josh1234 would not be.
+If a regex is set and the value of the import file does not match field will be shown in orange. Example: setting the Line Text Label Regex to `^[A-Z].*-(?:\d{4})$` would vaildate that the field needed to be a word followed by a hyphen and 4 digits. Josh-1234 would be valid, however Josh1234 would not be.
 
 <p align="center">
 <img src="https://github.com/sieteunoseis/betterbat-public-releases/blob/master/images/failed-regex.png" alt="Better BAT screenshot">
