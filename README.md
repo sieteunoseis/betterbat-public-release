@@ -49,7 +49,7 @@ Better BAT shows misconfigurations with your import file before you make any cha
 
 ![Screenshot: Better BAT auto-fix](https://github.com/sieteunoseis/betterbat-public-releases/blob/master/images/auto-fix.png)
 
-Better BAT has a built in auto-fix feature to help engineers fix missing or misconfigurations. Currently Auto-Fix will help solve the following:
+Better BAT has a built in auto-fix feature to help engineers fix missing/misconfiguration of certain fields. Currently Auto-Fix will help solve the following fields:
 
 * **Phone Button Template**
   * Auto-Fix will analyze the number of lines and speed dials configured on each device. It will then try to select the best phone template that matches the configuration. (Note: Auto-Fix will only select phone templates that match the exact phone model)
