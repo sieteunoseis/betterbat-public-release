@@ -130,6 +130,14 @@ Better BAT also allows engineers to hardcode any field in an import file. This c
 <img src="https://github.com/sieteunoseis/betterbat-public-releases/blob/master/images/custom-param.png" alt="Better BAT screenshot">
 </p>
 
+### Activation Code Support
+
+Since the release of Unified Communication Manager 12.5, administrators have been able to assign an activation code for users to onboard their phone. Better BAT includes support for this feature. Simply add a column; **Enable Activation ID** to your import file and set values to either _t_ or _f_. While importing the phones, Better BAT will retrieve the code for you.
+
+<p align="center">
+<img src="https://github.com/sieteunoseis/betterbat-public-releases/blob/master/images/activation-id.png" alt="Better BAT screenshot">
+</p>
+
 ### Airtable Support
 
 <p align="center">
