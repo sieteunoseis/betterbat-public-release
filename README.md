@@ -15,7 +15,9 @@ address bar.
   </a>
 </h3>
 
+<p align="center">
 <img src="https://github.com/sieteunoseis/betterbat-public-releases/blob/master/better-bat-social-preview.png" width="640px" alt="Better BAT screenshot">
+</p>
 
 # Features
 
