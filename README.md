@@ -75,11 +75,15 @@ Better BAT has a dynamic dropdown with typeable search to quickly navigate to a 
 
 ### Airtable Support
 
-![Screenshot: Better BAT Airtable Support](https://github.com/sieteunoseis/betterbat-public-releases/blob/master/images/airtable-1.png)
+<p align="center">
+<img src="https://github.com/sieteunoseis/betterbat-public-releases/blob/master/images/airtable-1.png" alt="Better BAT screenshot">
+</p>
 
 Better BAT has support for Airtable. Stop using spreadsheet to collect data for phone imports. Instead use a cloud based collaborative tool from Airtable.
 
-![Screenshot: Better BAT Airtable Support](https://github.com/sieteunoseis/betterbat-public-releases/blob/master/images/airtable-2.png)
+<p align="center">
+<img src="https://github.com/sieteunoseis/betterbat-public-releases/blob/master/images/airtable-2.png" width="640px" alt="Better BAT screenshot">
+</p>
 
 Airtable offers form views for each spreadsheet. Engineers can send out links to allow end-users to update or add missing information.
 
