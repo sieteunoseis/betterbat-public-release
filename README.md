@@ -146,9 +146,9 @@ Better BAT can convert existing phones into a CSF device
 <img src="https://github.com/sieteunoseis/betterbat-public-releases/blob/master/images/jabberconvert.png" alt="Better BAT screenshot">
 </p>
 
-Jabber Convert
-----------------
-SEP112233445566
+|Jabber Convert|
+|----------------|
+|BAT112233445566|
 
 
 ### Airtable Support
