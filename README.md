@@ -20,6 +20,16 @@ Better BAT was created to improve the bulk administration experience when using 
 
 Better BAT shows misconfigurations with your import file before you make any changes. This saves engineers from issues stemming from bad data collections, typo's or features not supported all phone models.
 
+### Auto-Fix
+
+![Screenshot: Better BAT auto-fix](https://github.com/sieteunoseis/betterbat-public-releases/blob/master/images/auto-fix.png)
+
+Better BAT has a built in auto-fix feature to help engineers fix missing or misconfigurations. Currently Auto-Fix will help solve the following:
+
+* Phone Button Template
+  * Auto-Fix will analyze the number of lines and speed dials configured on each device. It will then try to select the best phone template that matches the configuration. (Note: Auto-Fix will only select phone templates that match the exact phone model)
+* Item 2
+
 ### Handsontable
 
 ![Screenshot: Fiddle's Types](https://user-images.githubusercontent.com/1426799/43874324-10e46eae-9b40-11e8-962b-8c793d73c259.png)
