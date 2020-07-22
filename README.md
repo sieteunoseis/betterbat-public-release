@@ -11,7 +11,7 @@ address bar.
 
 <h3 align="center">
   <a href="https://github.com/electron/fiddle/releases/latest">
-  Download Electron Fiddle for macOS, Windows, and Linux
+  Download Better BAT for macOS or Windows
   </a>
 </h3>
 
