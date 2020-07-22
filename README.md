@@ -22,7 +22,7 @@ Better BAT allows you to 'merge' similar import files into a single CSV file. Fo
 <img src="https://github.com/sieteunoseis/betterbat-public-releases/blob/master/images/combine-csv1.png" alt="Better BAT screenshot">
 </p>
 
-Example CSV that combines 
+Example CSV that combines Forced Authorizations, Single Number Reach, Extension Mobility (Device Profiles), End User and Phones in a single CSV file.
 
 AUTHORIZATION CODE NAME|AUTHORIZATION CODE|AUTHORIZATIONLEVEL|REMOTE DESTINATION NAME|DESTINATION 1|Remote Destination Profile Name|Device Name    |Device Profile Name|Description |Device Pool|CSS       |Location|Extension Mobility|USER ID |User ID 1|Owner User ID|Device Type|Device Presence Group  |Device Security Profile                     |Device Protocol|SIP Profile         |Mobility User ID|Directory Number 1|Route Partition 1|Voice Mail Profile 1|Line CSS 1   |Line Text Label 1|Alerting Name 1|Line Description 1|ASCII Alerting Name 1|Display 1 |ASCII Display 1|Speed Dial Number 1|Speed Dial Label 1
 -----------------------|------------------|------------------|-----------------------|-------------|-------------------------------|---------------|-------------------|------------|-----------|----------|--------|------------------|--------|---------|-------------|-----------|-----------------------|--------------------------------------------|---------------|--------------------|----------------|------------------|-----------------|--------------------|-------------|-----------------|---------------|------------------|---------------------|----------|---------------|-------------------|-----------------------
