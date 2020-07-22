@@ -75,6 +75,8 @@ Better BAT has a dynamic dropdown with typeable search to quickly navigate to a 
 
 ### Customizable Options
 
+#### Regex Options
+
 Better BAT will help customers with naming standards. Via the Settings > Options menu, engineers can set regex for the following:
 
 * Device Description
@@ -83,18 +85,27 @@ Better BAT will help customers with naming standards. Via the Settings > Options
 * Alerting Name
 * Display
 
-If a regex is set and the value of the import file does not match field will be shown in orange. Example: `^[A-Z].*-(?:\d{4})` when used as a Line Text Label Regex would vaild that the field needed to be a word followed by a hyphen and 4 digits. Josh-1234 would be valid, however Josh1234 would not be.
+If a regex is set and the value of the import file does not match field will be shown in orange. Example: setting the Line Text Label Regex to `^[A-Z].*-(?:\d{4})` would vaildate that the field needed to be a word followed by a hyphen and 4 digits. Josh-1234 would be valid, however Josh1234 would not be.
 
 <p align="center">
 <img src="https://github.com/sieteunoseis/betterbat-public-releases/blob/master/images/failed-regex.png" alt="Better BAT screenshot">
 </p>
 
-Better BAT also engineers to hardcode any field in an import file. This cut down on the amount of columns needed in and import file. This feature is similar to Cisco's implementation of Phone Templates, without the restriction of having to do it per phone model.
+#### CSS Keyword Filter
+
+Does your Unified Communications Manager have a ton of different calling search spaces? Are they named according to the type of function they do? If so you can have Better BAT filter down the selectable options. For example if your naming standards for calling search spaces that are used on the device level all end in `DEV` you can set this via Better BAT. That way the dropdown for this field is filtered to only include these as options.
+
+<p align="center">
+<img src="https://github.com/sieteunoseis/betterbat-public-releases/blob/master/images/css-filter1.png" alt="Better BAT screenshot">
+</p>
+
+#### ParamName and ParamValue Options
+
+Better BAT also allows engineers to hardcode any field in an import file. This cut down on the amount of columns needed in an import file. This feature is similar to Cisco's implementation of Phone Templates, without the restriction of having to do it per phone model. Example: If your directory numbers are all in the same route partition, you can hardcode this and leave the column completely out of your import file.
 
 <p align="center">
 <img src="https://github.com/sieteunoseis/betterbat-public-releases/blob/master/images/custom-param.png" alt="Better BAT screenshot">
 </p>
-
 
 ### Airtable Support
 
