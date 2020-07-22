@@ -152,6 +152,9 @@ Sample CSV should look like:
 |----------------|
 |SEP112233445566|
 
+### Unity Connection Support
+
+Better BAT can import Unity Users via REST. Support for both LDAP and Local Users (Note for LDAP you need to have the LDAP username set for field **LdapCcmUserId**). Simply select the User Template when importing and Better BAT will import users against selected template.
 
 ### Airtable Support
 
