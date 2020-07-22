@@ -67,7 +67,9 @@ Better BAT will count errors detected in import file and allows users to cycle t
 
 ### Dynamic Column Dropdown
 
-![Screenshot: Better BAT Column Dropdown](https://github.com/sieteunoseis/betterbat-public-releases/blob/master/images/dynamic-dropdown.png)
+<p align="center">
+<img src="https://github.com/sieteunoseis/betterbat-public-releases/blob/master/images/dynamic-dropdown.png" width="640px" alt="Better BAT screenshot">
+</p>
 
 Better BAT has a dynamic dropdown with typeable search to quickly navigate to a particular column. This reduces time spent trying to find and update a particular field.
 
