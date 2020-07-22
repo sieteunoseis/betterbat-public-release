@@ -73,6 +73,29 @@ Better BAT will count errors detected in import file and allows users to cycle t
 
 Better BAT has a dynamic dropdown with typeable search to quickly navigate to a particular column. This reduces time spent trying to find and update a particular field.
 
+### Customizable Options
+
+Better BAT will help customers with naming standards. Via the Settings > Options menu, engineers can set regex for the following:
+
+* Device Description
+* Line Description
+* Line Text Label
+* Alerting Name
+* Display
+
+If a regex is set and the value of the import file does not match field will be shown in orange. Example: `^[A-Z].*-(?:\d{4})` when used as a Line Text Label Regex would vaild that the field needed to be a word followed by a hyphen and 4 digits. Josh-1234 would be valid, however Josh1234 would not be.
+
+<p align="center">
+<img src="https://github.com/sieteunoseis/betterbat-public-releases/blob/master/images/failed-regex.png" alt="Better BAT screenshot">
+</p>
+
+Better BAT also engineers to hardcode any field in an import file. This cut down on the amount of columns needed in and import file. This feature is similar to Cisco's implementation of Phone Templates, without the restriction of having to do it per phone model.
+
+<p align="center">
+<img src="https://github.com/sieteunoseis/betterbat-public-releases/blob/master/images/custom-param.png" alt="Better BAT screenshot">
+</p>
+
+
 ### Airtable Support
 
 <p align="center">
