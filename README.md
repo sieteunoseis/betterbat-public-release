@@ -93,7 +93,7 @@ If a regex is set and the value of the import file does not match field will be 
 
 #### CSS Keyword Filter
 
-Does your Unified Communications Manager have a ton of different calling search spaces? Are they named according to the type of function they do? If so you can have Better BAT filter down the selectable options. For example if your naming standards for calling search spaces that are used on the device level all end in `DEV` you can set this via Better BAT. That way the dropdown for this field is filtered to only include these as options.
+Does your Unified Communications Manager have a ton of different calling search spaces? Are they named according to the type of function they do? If so you can have Better BAT filter down the selectable options. For example if your naming standards for calling search spaces used on the device level all contain the word `DEV` in them you can set this via Better BAT. That way the dropdown for this field is filtered to only include these as options.
 
 <p align="center">
 <img src="https://github.com/sieteunoseis/betterbat-public-releases/blob/master/images/css-filter1.png" alt="Better BAT screenshot">
