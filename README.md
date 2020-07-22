@@ -14,6 +14,15 @@ Better BAT was created to improve the bulk administration experience when using 
 
 # Features
 
+### Combine Import Files
+
+Better BAT allows you to 'merge' similar import files into a single CSV file. For example since a phone and a device profile import file share a lot of the same fields you can combine them.
+
+<p align="center">
+<img src="https://github.com/sieteunoseis/betterbat-public-releases/blob/master/images/combine-csv1.png" alt="Better BAT screenshot">
+</p>
+
+
 ### Live Feedback
 
 ![Screenshot: Better BAT running](https://github.com/sieteunoseis/betterbat-public-releases/blob/master/images/live-feedback.png)
