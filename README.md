@@ -21,9 +21,9 @@ Better BAT was created to improve the bulk administration experience when using 
 Better BAT shows misconfigurations with your import file before you make any changes. This saves engineers from issues stemming from bad data collections, typo's or features not supported all phone models.
 
 * #### Legend
-  - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `RED`
-  - ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
-  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
+  - ![#ff4c42](https://via.placeholder.com/15/ff4c42/000000?text=+) `RED - Missing or misconfigured field.`
+  - ![#add8e6](https://via.placeholder.com/15/add8e6/000000?text=+) `LIGHT BLUE - Used to identify if device or user is already configured on server.`
+  - ![#ffa503](https://via.placeholder.com/15/1589F0/ffa503?text=+) `ORANGE - Warning that value doesn't correspond with other items in configuration. Mostly likely a misconfiguration but would not stop import. Example would be setting a Call Forward to Voicemail but the NoVoiceMail profile is set.`
 
 ### Auto-Fix
 
