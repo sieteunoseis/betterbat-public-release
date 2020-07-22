@@ -21,7 +21,7 @@ Better BAT was created to improve the bulk administration experience when using 
 Better BAT shows misconfigurations with your import file before you make any changes. This saves engineers from issues stemming from bad data collections, typo's or features not supported all phone models.
 
 * #### Legend
-  - ![#f03c15]
+  - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `RED`
   - ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
   - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
 
