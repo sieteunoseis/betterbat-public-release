@@ -16,7 +16,7 @@ Better BAT was created to improve the bulk administration experience when using 
 
 ### Live Feedback
 
-![Screenshot: Electron App running](https://user-images.githubusercontent.com/1426799/52155856-c0bb4300-2639-11e9-9962-a6354d08dc5a.jpg)
+![Screenshot: Electron App running](https://github.com/sieteunoseis/betterbat-public-releases/blob/master/images/live-feedback.png)
 
 Try Electron without installing any dependencies: Fiddle includes everything
 you'll need to explore the platform. It also includes examples for every API
