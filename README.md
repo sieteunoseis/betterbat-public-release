@@ -140,7 +140,7 @@ Since the release of Unified Communication Manager 12.5, administrators have bee
 
 ### Jabber Conversion
 
-Better BAT can convert existing phones into a CSF device. Just import a csv file that has a single column named Jabber Convert with the list of phones that need to have a Jabber counterpart. Better BAT will pull the configuration from the phone and convert to a Jabber desktop device. Note: only the first 8 lines will be included and any feature not supported by Jabber will be disregarded.
+Better BAT can convert existing phones into a CSF device. Just import a csv file that has a single column named **Jabber Convert** with the list of device names that need to have a Jabber counterpart. Better BAT will pull the configuration from the phone and convert to a Jabber desktop device. Note: only the first 8 lines will be included and any feature not supported by Jabber will be disregarded.
 
 <p align="center">
 <img src="https://github.com/sieteunoseis/betterbat-public-releases/blob/master/images/jabberconvert.png" alt="Better BAT screenshot">
