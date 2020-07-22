@@ -1,13 +1,6 @@
 # <img src="https://github.com/sieteunoseis/betterbat-public-releases/blob/master/logo.png" width="60px" align="center" alt="Better BAT icon"> Better BAT
 
-[![Build Status](https://travis-ci.org/electron/fiddle.svg?branch=master)](https://travis-ci.org/electron/fiddle) [![Coverage Status](https://coveralls.io/repos/github/electron/fiddle/badge.svg?branch=master)](https://coveralls.io/github/electron/fiddle?branch=master)
-
-Electron Fiddle lets you create and play with small Electron experiments. It
-greets you with a quick-start template after opening – change a few things,
-choose the version of Electron you want to run it with, and play around. Then,
-save your Fiddle either as a GitHub Gist or to a local folder. Once published
-on GitHub, anyone can quickly try your Fiddle out by just entering it in the
-address bar.
+Better BAT was created to improve the bulk administration experience when using Cisco's Unified Communications Manager.
 
 <h3 align="center">
   <a href="https://github.com/sieteunoseis/betterbat-public-releases/releases/latest">
