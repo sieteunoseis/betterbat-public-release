@@ -23,7 +23,7 @@ Better BAT shows misconfigurations with your import file before you make any cha
 * #### Legend
   - ![#ff4c42](https://via.placeholder.com/15/ff4c42/000000?text=+) `RED - Missing or misconfigured field.`
   - ![#add8e6](https://via.placeholder.com/15/add8e6/000000?text=+) `LIGHT BLUE - Used to identify if device or user is already configured on server.`
-  - ![#ffa503](https://via.placeholder.com/15/1589F0/ffa503?text=+) `ORANGE - Warning that value doesn't correspond with other items in configuration. Mostly likely a misconfiguration but would not stop import. Example would be setting a Call Forward to Voicemail but the NoVoiceMail profile is set.`
+  - ![#ffa503](https://via.placeholder.com/15/ffa503/ffa503?text=+) `ORANGE - Warning that value doesn't correspond with other items in configuration. Mostly likely a misconfiguration but would not stop import. Example would be setting a Call Forward to Voicemail but the NoVoiceMail profile is set.`
 
 ### Auto-Fix
 
