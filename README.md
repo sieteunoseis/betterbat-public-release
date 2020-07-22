@@ -20,6 +20,8 @@ Better BAT was created to improve the bulk administration experience when using 
 
 Better BAT shows misconfigurations with your import file before you make any changes. This saves engineers from issues stemming from bad data collections, typo's or features not supported all phone models.
 
+* #### Legend
+
 ### Auto-Fix
 
 ![Screenshot: Better BAT auto-fix](https://github.com/sieteunoseis/betterbat-public-releases/blob/master/images/auto-fix.png)
@@ -28,7 +30,29 @@ Better BAT has a built in auto-fix feature to help engineers fix missing or misc
 
 * Phone Button Template
   * Auto-Fix will analyze the number of lines and speed dials configured on each device. It will then try to select the best phone template that matches the configuration. (Note: Auto-Fix will only select phone templates that match the exact phone model)
-* Item 2
+* Device Pool
+  * Via the Settings > Options > Auto-Fix Keyword, Auto-Fix will try to select a Device Pool that contains the keyword. This is useful if you use site codes or any other naming convention. (Note: Auto-Fix will only change/update fields that are marked as incorrect)
+* Location
+  * Via the Settings > Options > Auto-Fix Keyword, Auto-Fix will try to select a Location that contains the keyword. This is useful if you use site codes or any other naming convention. (Note: Auto-Fix will only change/update fields that are marked as incorrect)
+* Max Call/Busy Trigger
+  * Auto-Fix will look up the default settings per device type and fill in the missing values
+* Device Security Profile
+  * Auto-Fix will select the default Device Security Profile for the particular device type. Example: for a Cisco 8845, Auto-Fix would select "Cisco 8845 - Standard SIP Non-Secure Profile". (Note: This feature is for phones configured as SIP in the Device Protocol)
+* MLPP Support (MLPP Indication & MLPP Preemption)
+  * Auto-Fix will look up the default settings per device type and set to off if the model does not support the feature.
+* Extension Mobility Support
+  * Auto-Fix will look up the default settings per device type and set to off if the model does not support the feature.
+* DND Support
+  * Auto-Fix will look up the default settings per device type and set to off if the model does not support the feature.
+* SIP Profile
+  * Auto-Fix will select "Standard SIP Profile" if this is missing from the import file. "Standard SIP Profile" is a non-deletable profile in Communication Manager.
+* Common Phone Profile
+  * Auto-Fix will select "Standard Common Phone Profile" if this is missing from the import file. "Standard Common Phone Profile" is a deletable profile in Communication Manager, please verify that it still there before using Better BAT.
+* Line Display and Alerting Names
+  * Auto-Fix will copy data from Display (Caller ID) to ASCII Display (Caller ID) if missing.
+  * Auto-Fix will copy data from Alerting Name to ASCII Alerting Name if missing.
+* Call Forward to Voicemail Settings
+* CSS (Calling Search Space)
 
 ### Handsontable
 
