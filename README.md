@@ -10,7 +10,7 @@ on GitHub, anyone can quickly try your Fiddle out by just entering it in the
 address bar.
 
 <h3 align="center">
-  <a href="https://github.com/electron/fiddle/releases/latest">
+  <a href="https://github.com/sieteunoseis/betterbat-public-releases/releases/latest">
   Download Better BAT for macOS or Windows
   </a>
 </h3>
