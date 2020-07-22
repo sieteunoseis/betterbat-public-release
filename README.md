@@ -99,6 +99,11 @@ Does your Unified Communications Manager have a ton of different calling search 
 <img src="https://github.com/sieteunoseis/betterbat-public-releases/blob/master/images/css-filter1.png" alt="Better BAT screenshot">
 </p>
 
+<p align="center">
+<img src="https://github.com/sieteunoseis/betterbat-public-releases/blob/master/images/css-filter2.png" alt="Better BAT screenshot">
+</p>
+
+
 #### ParamName and ParamValue Options
 
 Better BAT also allows engineers to hardcode any field in an import file. This cut down on the amount of columns needed in an import file. This feature is similar to Cisco's implementation of Phone Templates, without the restriction of having to do it per phone model. Example: If your directory numbers are all in the same route partition, you can hardcode this and leave the column completely out of your import file.
