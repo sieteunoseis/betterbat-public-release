@@ -16,13 +16,9 @@ Better BAT was created to improve the bulk administration experience when using 
 
 ### Live Feedback
 
-![Screenshot: Electron App running](https://github.com/sieteunoseis/betterbat-public-releases/blob/master/images/live-feedback.png)
+![Screenshot: Better BAT running](https://github.com/sieteunoseis/betterbat-public-releases/blob/master/images/live-feedback.png)
 
-Try Electron without installing any dependencies: Fiddle includes everything
-you'll need to explore the platform. It also includes examples for every API
-available in Electron, so if you want to quickly see what a
-[BrowserView][BrowserView] is or how the [desktopCapturer][desktopCapturer]
-works, Fiddle has got you covered.
+Better BAT shows misconfigurations with your import file before you make any changes. This saves engineers from issues stemming from bad data collections, typo's or features not supported all phone models.
 
 ### Handsontable
 
