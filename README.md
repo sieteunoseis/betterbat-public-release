@@ -60,6 +60,16 @@ Better BAT has a built in auto-fix feature to help engineers fix missing or misc
   * Auto-Fix will set fields that are incorrect or empty to either 't' or 'f' depending on what voice mail profile is selected. Example: if engineer has 'NoVoiceMail' profile selected and true set for the 'Forward Busy Internal Voice Mail', Auto-Fix will update this to be false.
 * **CSS** (Calling Search Space)
   * Via the Settings > Options > Auto-Fix Keyword, Auto-Fix will try to select a CSS that contains the keyword. This is useful if you use site codes or any other naming convention. (Note: Auto-Fix will only change/update fields that are marked as incorrect)
+  
+### Error Button
+
+Better BAT count's errors detected in import file and allows users to cycle to issues to speed up remediation of issues.
+
+### Dynamic Column Dropdown
+
+![Screenshot: Better BAT Column Dropdown](https://github.com/sieteunoseis/betterbat-public-releases/blob/master/images/dynamic-dropdown.png)
+
+Better BAT has a dynamic dropdown with typeable search to quickly navigate to a particular column. This reduces time spent trying to find and update a particular field.
 
 ### Built with Electron, NodeJS and Handsontable
 
