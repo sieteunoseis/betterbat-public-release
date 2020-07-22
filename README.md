@@ -63,7 +63,7 @@ Better BAT has a built in auto-fix feature to help engineers fix missing or misc
   
 ### Error Button
 
-Better BAT count's errors detected in import file and allows users to cycle to issues to speed up remediation of issues.
+Better BAT will count errors detected in import file and allows users to cycle to issues to speed up remediation of issues.
 
 ### Dynamic Column Dropdown
 
